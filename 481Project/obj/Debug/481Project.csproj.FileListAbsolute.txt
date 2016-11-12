@@ -1,0 +1,211 @@
+C:\Users\David\Desktop\481Project\481Project\bin\Debug\_81Project.exe.config
+C:\Users\David\Desktop\481Project\481Project\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\481Project\481Project\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\481Project\481Project\obj\Debug\App.g.cs
+C:\Users\David\Desktop\481Project\481Project\obj\Debug\_81Project_MarkupCompile.cache
+C:\Users\David\Desktop\481Project\481Project\obj\Debug\_81Project.g.resources
+C:\Users\David\Desktop\481Project\481Project\obj\Debug\481Project.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\_81Project.exe.config
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\_81Project.exe
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\_81Project.pdb
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\MainWindow.baml
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\MainWindow.g.cs
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\App.g.cs
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project_MarkupCompile.cache
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project.g.resources
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\481Project.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project.exe
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project.pdb
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\ShoppingCartControl.baml
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\ShoppingCartControl.g.cs
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\David\Documents\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project_MarkupCompile.lref
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\_81Project.exe.config
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\_81Project.exe
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\_81Project.pdb
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\System.Windows.Interactivity.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\ShoppingCartControl.baml
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\MainWindow.g.cs
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\ShoppingCartControl.g.cs
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\App.g.cs
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project_MarkupCompile.cache
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project_MarkupCompile.lref
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\MainWindow.baml
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project.g.resources
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project.Properties.Resources.resources
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\481Project.csproj.GenerateResource.Cache
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project.exe
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\_81Project.pdb
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\CoursesControl.baml
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\CoursesControl.g.cs
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\ClassListControl.baml
+F:\Visual Studio 2012\Projects\481Project\481Project\obj\Debug\ClassListControl.g.cs
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\_81Project.exe.config
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\_81Project.exe
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\_81Project.pdb
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\481Project.csprojResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\_81Project_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\_81Project_MarkupCompile.lref
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\_81Project.exe
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\_81Project.pdb
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\Microsoft.Expression.Drawing.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\Microsoft.Expression.Interactions.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\System.Windows.Interactivity.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\de\System.Windows.Interactivity.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\en\System.Windows.Interactivity.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\es\System.Windows.Interactivity.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\it\System.Windows.Interactivity.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\_81Project.g.resources
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\_81Project.Properties.Resources.resources
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\481Project.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\_81Project.exe.config
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\_81Project.exe
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\_81Project.pdb
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\481Project.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\ClassListControl.baml
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\CoursesControl.baml
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\ShoppingCartControl.baml
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\ClassListControl.g.cs
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\CoursesControl.g.cs
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\MainWindow.g.cs
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\ShoppingCartControl.g.cs
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\App.g.cs
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\_81Project_MarkupCompile.cache
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\_81Project_MarkupCompile.lref
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\_81Project.exe
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\_81Project.pdb
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\MainWindow.baml
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\_81Project.g.resources
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\_81Project.Properties.Resources.resources
+C:\Users\Aaron\Desktop\481Project\481Project\obj\Debug\481Project.csproj.GenerateResource.Cache
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\SearchResultControl.baml
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\ScheduleTimeslotControl.baml
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\SearchResultControl.g.cs
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\ScheduleTimeslotControl.g.cs
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\ShoppingCartControl.baml
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\ShoppingCartControl.g.cs
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\ScheduleControl.baml
+\\cs-fs01\Profiles\ug\akmourat\Desktop\481Project\481Project\obj\Debug\ScheduleControl.g.cs
